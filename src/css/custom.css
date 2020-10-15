@@ -20,6 +20,11 @@
 
   --ifm-color-primary: #067c03;
   --ifm-footer-link-hover-color: #0dcf09;
+  --ifm-footer-background-color: #08110c;
+}
+
+.footer--dark {
+  --ifm-footer-background-color: #08110c;
 }
 
 html[data-theme="dark"] {
