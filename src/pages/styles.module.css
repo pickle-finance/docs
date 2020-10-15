@@ -12,9 +12,21 @@
   overflow: hidden;
 }
 
+.heroSubtitle {
+  font-family: "VT323", monospace;
+  font-size: 2rem;
+  letter-spacing: 1rem;
+  color: #26ff91;
+  text-shadow: rgba(38, 255, 145, 0.5) 0px 0px 18px;
+}
+
 @media screen and (max-width: 966px) {
   .heroBanner {
     padding: 2rem;
+  }
+  .heroSubtitle {
+    font-size: 1.5rem;
+    letter-spacing: 0.25rem;
   }
 }
 
@@ -31,7 +43,7 @@
 .features {
   display: flex;
   align-items: center;
-  padding: 2rem 0;
+  padding: 2rem 0 4rem;
   width: 100%;
 }
 

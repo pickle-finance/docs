@@ -78,10 +78,17 @@ function Home() {
       title={`Hello from ${siteConfig.title}`}
       description="Description will go into a meta tag in <head />"
     >
-      <header className={clsx("hero hero--primary", styles.heroBanner)}>
+      <header
+        className={clsx("hero hero--primary", styles.heroBanner)}
+        style={{ backgroundColor: `#0e1d15` }}
+      >
         <div className="container">
-          <h1 className="hero__title">{siteConfig.title}</h1>
-          <p className="hero__subtitle">{siteConfig.tagline}</p>
+          <img
+            src="img/logo.png"
+            alt="logo"
+            style={{ maxWidth: `480px`, width: `100%` }}
+          />
+          <h2 className={styles.heroSubtitle}>Documentation</h2>
           <div className={styles.buttons}>
             <Link
               className={clsx(
