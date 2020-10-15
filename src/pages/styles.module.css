@@ -24,6 +24,10 @@
   justify-content: center;
 }
 
+.buttonLong {
+  width: 100%;
+}
+
 .features {
   display: flex;
   align-items: center;
