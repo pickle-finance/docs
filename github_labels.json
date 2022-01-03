@@ -1,0 +1,127 @@
+[
+  {
+    "name": "good first issue",
+    "description": "Good for newcomers",
+    "color": "7057ff"
+  },
+  {
+    "name": "help wanted",
+    "description": "Extra attention is needed",
+    "color": "008672"
+  },
+  {
+    "name": "hours: 1",
+    "description": null,
+    "color": "00ff37"
+  },
+  {
+    "name": "hours: 2",
+    "description": null,
+    "color": "6eff8d"
+  },
+  {
+    "name": "hours: 3",
+    "description": null,
+    "color": "b5ffc5"
+  },
+  {
+    "name": "hours: 5",
+    "description": null,
+    "color": "ffffb5"
+  },
+  {
+    "name": "hours: 8",
+    "description": null,
+    "color": "ffff63"
+  },
+  {
+    "name": "hours: 13",
+    "description": null,
+    "color": "ffff00"
+  },
+  {
+    "name": "invalid",
+    "description": "This doesn't seem right",
+    "color": "e4e669"
+  },
+  {
+    "name": "priority: critical",
+    "description": "Mission critical, must be done ASAP",
+    "color": "b60205"
+  },
+  {
+    "name": "priority: high",
+    "description": "Important, do soon",
+    "color": "d93f0b"
+  },
+  {
+    "name": "priority: low",
+    "description": "Not so important, not urgent",
+    "color": "0e8a16"
+  },
+  {
+    "name": "priority: medium",
+    "description": "Good idea, not very urgent",
+    "color": "fbca04"
+  },
+  {
+    "name": "status: abandoned 🚫",
+    "description": "This will not be worked on",
+    "color": "000000"
+  },
+  {
+    "name": "status: accepted 👌",
+    "description": "Review complete and changes are accepted. Waiting to be merged",
+    "color": "0e8a16"
+  },
+  {
+    "name": "status: available 🟢",
+    "description": "Ready to be worked on",
+    "color": "c2e0c6"
+  },
+  {
+    "name": "status: blocked 🚧",
+    "description": "Progress obstructed by another task",
+    "color": "b60205"
+  },
+  {
+    "name": "status: change requested ☝️",
+    "description": "Post review, changes should be discussed or made",
+    "color": "d93f0b"
+  },
+  {
+    "name": "status: in progress 🔜",
+    "description": "Being worked on or PR has been opened",
+    "color": "1d76db"
+  },
+  {
+    "name": "status: needs review 👀",
+    "description": "PR is open, must be reviewed before this can be marked DONE",
+    "color": "fbca04"
+  },
+  {
+    "name": "type: bug 🐛",
+    "description": "Something isn't working",
+    "color": "d73a4a"
+  },
+  {
+    "name": "type: documentation 📓",
+    "description": "Improvements or additions to documentation",
+    "color": "0075ca"
+  },
+  {
+    "name": "type: enhancement 🧠",
+    "description": "New feature or development on existing feature",
+    "color": "33eda0"
+  },
+  {
+    "name": "type: maintenance 🛠️",
+    "description": "Code cleanup or optimization",
+    "color": "006b75"
+  },
+  {
+    "name": "type: question ❓",
+    "description": "Further information is requested",
+    "color": "d876e3"
+  }
+]
